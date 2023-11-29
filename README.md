@@ -1,6 +1,53 @@
 ## **💻 RICK AND MORTY APP 💻**
 
 ---
+## Índice
+
+- [React Intro](#-react-intro)
+  - [Ejercicio 1](#-ejercicio-1)
+  - [Ejercicio 2 | Card](#-ejercicio-2--card)
+  - [Ejercicio 3 | Cards](#-ejercicio-3--cards)
+  - [Ejercicio 4 | SearchBar](#-ejercicio-4--searchbar)
+- [React Estilos](#-react-estilos)
+  - [Ejercicio 5](#-ejercicio-5)
+- [React Estado LifeCycle](#-react-estado-lifecycle)
+  - [Ejercicio 6 | Nav](#-ejercicio-6--nav)
+  - [Ejercicio 7 | Home](#-ejercicio-7--home)
+  - [Ejercicio 8 | Estado](#-ejercicio-8--estado)
+  - [Ejercicio 9 | On Search](#-ejercicio-9--on-search)
+  - [Ejercicio 10 | SearchBar & onSearch](#-ejercicio-10--searchbar--onsearch)
+  - [Ejercicio Extra 1](#-ejercicio-extra-1)
+- [React Routing](#-react-routing)
+  - [Ejercicio 14 | Instalación y configuración](#-ejercicio-14--instalación-y-configuración)
+  - [Ejercicio 15 | About](#-ejercicio-15--about)
+  - [Ejercicio 16 | Routing](#-ejercicio-16--routing)
+  - [Ejercicio 17 | Detail redirection](#-ejercicio-17--detail-redirection)
+  - [Ejercicio 18 | Detail](#-ejercicio-18--detail)
+  - [Ejercicio 19 | Detail rendering](#-ejercicio-19--detail-rendering)
+  - [Ejercicio Extra 2](#-ejercicio-extra-2)
+- [React Forms](#-react-forms)
+  - [Ejercicio 20 | Form](#-ejercicio-20--form)
+  - [Ejercicio 21 | Routing](#-ejercicio-21--routing)
+  - [Ejercicio 22 | Form control](#-ejercicio-22--form-control)
+  - [Ejercicio 23 | Validaciones](#-ejercicio-23--validaciones)
+  - [Ejercicio 24 | Seguridad](#-ejercicio-24--seguridad)
+  - [Ejercicio 25 | Login](#-ejercicio-25--login)
+  - [Ejercicio Extra 3](#-ejercicio-extra-3)
+- [React Redux](#-react-redux)
+  - [Ejercicio 26 | Redux & Configuration](#-ejercicio-26--redux--configuration)
+  - [Ejercicio 27 | Actions](#-ejercicio-27--actions)
+  - [Ejercicio 28 | Reducer](#-ejercicio-28--reducer)
+  - [Ejercicio 29 | Fav button](#-ejercicio-29--fav-button)
+  - [Ejercicio 30 | Favorites](#-ejercicio-30--favorites)
+  - [Ejercicio Extra 4](#-ejercicio-extra-4)
+- [React Hooks](#-react-hooks)
+  - [Ejercicio 31 | Actions](#-ejercicio-31--actions)
+  - [Ejercicio 32 | Reducer](#-ejercicio-32--reducer)
+  - [Ejercicio 33 | Filtro & Ordenamiento](#-ejercicio-33--filtro--ordenamiento)
+  - [Ejercicio 34 | Forzado de render](#-ejercicio-34--forzado-de-render)
+  - [Ejercicio Extra 5](#-ejercicio-extra-5)
+    
+---
 
 # **💪 React Intro**
 
