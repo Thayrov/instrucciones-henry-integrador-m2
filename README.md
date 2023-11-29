@@ -106,7 +106,7 @@ No hay consignas que debas seguir, puedes darle tu toque personal. **Sé creativ
 
 Puedes guiarte con esta imagen:
 
-![ejemplo](../FT-M2-master/07-React-Estilos/homework/02%20-%20Integration/img/01.png)
+![ejemplo](./img/01.png)
 
 <div align="center">
 
