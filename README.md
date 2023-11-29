@@ -1,13 +1,11 @@
-<div align="center">
-
 ## **💻 RICK AND MORTY APP 💻**
 
-</div>
-<div align="center">
+---
 
 # **💪 React Intro**
 
-</div>
+---
+
 En esta homework vamos a crear nuestro proyecto de **Rick and Morty**. Comenzaremos construyendo nuestros primeros componentes: **card**, **cards** y **searchBar**.
 
 </br >
@@ -75,11 +73,9 @@ Recibe por props una función **`onSearch`**. La función **`onSearch`** se debe
 
 ---
 
-<div align="center">
-
 # **💪 React Estilos**
 
-</div>
+---
 
 En esta homework podrás escoger entre cualquiera de los tipos de estilos que hemos aprendido en la lecture para aplicarlos en tu aplicación:
 
@@ -108,11 +104,11 @@ Puedes guiarte con esta imagen:
 
 ![ejemplo](./img/01.png)
 
-<div align="center">
+---
 
 # **💪 React Estado LifeCycle**
 
-</div>
+---
 
 Hasta el momento, en nuestra **Rick & Morty App** tenemos estos 3 componentes: **Card**, **Cards** y **SearchBar**.
 
@@ -298,11 +294,11 @@ Este es el resultado esperado:
 
 > [**NOTA**]: hay 826 personajes en total.
 
-<div align="center">
+---
 
 # **💪 React Routing**
 
-</div>
+---
 
 En esta homework integraremos **React Router DOM** para enrutar las distintas vistas de nuestra aplicación. Esto quiere decir que podremos decidir en que path o "link" se renderice cada componente.
 
@@ -445,11 +441,9 @@ El desafío es el siguiente: haz que este componente se muestre cada vez que el 
 
 ---
 
-<div align="center">
-
 # **💪 React Forms**
 
-</div>
+---
 
 En esta homework crearemos un sistema de login para nuestra aplicación. De esta forma podremos practicar formularios y, además, cada vez que ingresemos a la App tendremos que tener un email y una contraseña.
 
@@ -592,11 +586,10 @@ Te desafiamos a que crees un botón "**Log out**" en tu componente **`Nav`**. Si
 
 ---
 
-<div align="center">
-
 # **💪 React Redux**
 
-</div>
+---
+
 En esta homework crearemos un nuevo espacio para guardar a nuestros personajes favoritos. ¡Podremos agregarlos y eliminarlos!
 
 ---
@@ -740,11 +733,9 @@ Si revisas, esta aplicación tiene un pequeño bug que tendrás que resolver... 
 
 ---
 
-<div align="center">
-
 # **💪 React Hooks**
 
-</div>
+---
 
 En esta homework crearemos dos cosas que harán más completa nuestra aplicación 😄.
 
