@@ -69,6 +69,8 @@ En el archivo **`App.js`** ya hay importado 3 componentes: **Card**, **Cards** y
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 2 | Card**
@@ -90,6 +92,9 @@ Además, cuando el usuario haga click en la **X** de "cerrar", debe ejecutarse u
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
+
 ---
 
 ## **👩‍💻 EJERCICIO 3 | Cards**
@@ -106,6 +111,9 @@ Lo primero que debes hacer es recibir la propiedad **`characters`** mediante las
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
+
 ---
 
 ## **👩‍💻 EJERCICIO 4 | SearchBar**
@@ -117,6 +125,9 @@ Recibe por props una función **`onSearch`**. La función **`onSearch`** se debe
 <img src="./img/SearchBar.png" height="50px">
 
 <br />
+
+[Volver al índice &uarr;](#índice)
+
 
 ---
 
@@ -139,6 +150,9 @@ En esta homework podrás escoger entre cualquiera de los tipos de estilos que he
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
+
 ---
 
 ## **👩‍💻 EJERCICIO 5**
@@ -150,6 +164,9 @@ No hay consignas que debas seguir, puedes darle tu toque personal. **Sé creativ
 Puedes guiarte con esta imagen:
 
 ![ejemplo](./img/01.png)
+
+[Volver al índice &uarr;](#índice)
+
 
 ---
 
@@ -173,6 +190,9 @@ Adicionalmente, crearemos otro componente denominado **`Nav`** que será nuestra
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
+
 ---
 
 ## **👩‍💻 EJERCICIO 7 | Home**
@@ -194,6 +214,9 @@ Puedes guiarte a partir de la siguiente imagen cómo puede quedar tu aplicación
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
+
 ---
 
 ## **👩‍💻 EJERCICIO 8 | Estado**
@@ -207,6 +230,8 @@ Para esto, dirígete al componente **`App.js`** y:
 3. Crea un estado local llamado `characters` el cual se debe inicializar como un arreglo vacío.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -236,6 +261,8 @@ const example = {
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 10 | SearchBar & onSearch**
@@ -250,6 +277,8 @@ Una vez que hayas creado la función **`onSearch`** deberás:
 <img src="./img/onSearchFunction.gif" alt="" />
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -277,6 +306,8 @@ Ahora nos dirigiremos a la **`SearchBar`** para realizar algunas modificaciones.
 4. Una vez que hayas cumplido con todos estos pasos, asegúrate de que cada vez que se ejecute la función **`onSearch`** esa reciba el estado **id** como argumento.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -308,6 +339,8 @@ function onSearch(id) {
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 13 | On Close**
@@ -330,6 +363,8 @@ Este es el resultado esperado:
 <img src="./img/final.gif" width='800px'/>
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -361,6 +396,8 @@ En esta homework integraremos **React Router DOM** para enrutar las distintas vi
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 15 | About**
@@ -377,6 +414,8 @@ Una vez construido el componente:
 > [**NOTA**]: podrías utilizar NavLink para darle estilos al link About y Home.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -398,6 +437,8 @@ Comprueba en tu navegador que cada componente se renderice en la ruta indicada. 
 <img src="./img/rutas.gif" alt="" />
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -424,6 +465,8 @@ En este momento, cuando hacemos click sobre el nombre de un personaje nos debe r
 <img src="./img/rutaDetail.gif" alt="" />
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -453,6 +496,8 @@ useEffect(() => {
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 19 | Detail rendering**
@@ -477,6 +522,8 @@ Debería quedarte algo como esto:
 > [**NOTA**]: como la información del personaje de obtiene a partir de una petición asincrónica a la API de Rick & Morty, puede que la información aún no esté disponible cuando la quieras renderizar. ¡Aquí es donde debes aplicar renderizado condicional! Te dejamos la [**documentación**](https://reactjs.org/docs/conditional-rendering.html#:~:text=Conditional%20rendering%20in%20React%20works,the%20UI%20to%20match%20them.&text=This%20example%20renders%20a%20different,the%20value%20of%20isLoggedIn%20prop.) como ejemplo.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -514,6 +561,8 @@ Ahora crearemos el formulario que nos permitirá logearnos en un futuro.
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 21 | Routing**
@@ -527,6 +576,8 @@ Ahora le diremos a nuestro formulario dónde debe renderizarse. Para esto:
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 22 | Form control**
@@ -538,6 +589,8 @@ En este ejercicio controlaremos y gestionaremos la información que ingrese el u
 3. Crea una función llamada **handleChange** que nos permita reflejar el texto ingresado de los inputs en nuestro estado local.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -563,6 +616,8 @@ En este ejercicio controlaremos y gestionaremos la información que ingrese el u
 <img src="./img/validations.png" alt="" >
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -604,6 +659,8 @@ useEffect(() => {
 ```
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -655,6 +712,8 @@ Dentro del archivo **`store.js`** haz la configuración del store. Una vez confi
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 27 | Actions**
@@ -670,6 +729,8 @@ Dentro del archivo **`store.js`** haz la configuración del store. Una vez confi
 > [**NOTA**]: no olvides que el nombre que asignes en la propiedad "TYPE" de tu acción, debe coincidir exactamente con el nombre de los casos que hayas asignado en tu reducer.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -692,6 +753,8 @@ Dirígete a tu archivo **`reducer.js`**. Allí deberás:
 5. No te olvides de tu caso _**default**_.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -744,6 +807,8 @@ useEffect(() => {
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 30 | Favorites**
@@ -759,6 +824,8 @@ Dirígete a tu carpeta de componentes y crea uno llamado **`Favorites`**.
 4. Una vez que tengas la lista de tus personajes favoritos dentro de tu componente, deberás mapearlo y renderizar una **`Card`** con información del personaje (no te olvides de pasarle las propiedades del personaje).
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -802,6 +869,8 @@ Dirígete al archivo **`actions`** y crea las siguientes funciones:
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 ## **👩‍💻 EJERCICIO 32 | Reducer**
@@ -830,6 +899,8 @@ Dirígete al archivo **`reducer`** y sigue estos pasos:
 > [**NOTA**]: investiga en la web cómo funciona el método **`sort`**.
 
 <br />
+
+[Volver al índice &uarr;](#índice)
 
 ---
 
@@ -866,6 +937,8 @@ Dirígete a tu componente **`Favorites`**. Dentro de él deberás:
 
 <br />
 
+[Volver al índice &uarr;](#índice)
+
 ---
 
 <br />
@@ -889,3 +962,7 @@ A esta altura, tu filtro y ordenamiento debería estar funcionando de la siguien
 ## **📌 EJERCICIO EXTRA 5**
 
 Agrega una opción adicional en el select del filtro para que muestre todos los personajes. Desarrolla la lógica para que ello ocurra.
+
+[Volver al índice &uarr;](#índice)
+
+
