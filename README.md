@@ -1,4 +1,4 @@
-## **💻 RICK AND MORTY APP 💻**
+## **💻 RICK AND MORTY APP - M2 💻**
 
 ---
 ## Índice
