@@ -1,7 +1,7 @@
 ## **💻 RICK AND MORTY APP - M2 💻**
 
 ---
-## Índice
+## Índice de contenido
 
 - [React Intro](#-react-intro)
   - [Ejercicio 1](#-ejercicio-1)
